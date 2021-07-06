@@ -1,0 +1,22 @@
+body{
+    font-family: 'Play', sans-serif;
+}
+h1 {
+    font-size: 50px;
+    
+}
+p {
+    text-align: justify;
+}
+.Blue {
+    color: rgb(31, 124, 231);
+}
+.display-view {
+    display: flex;
+margin-bottom: 100px;
+}
+.text-view {
+    width: 50%;
+    margin: 40px;
+    
+}
