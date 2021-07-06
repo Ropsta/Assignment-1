@@ -14,9 +14,39 @@ p {
 .display-view {
     display: flex;
 margin-bottom: 100px;
+background-image: url(image/background6.jpg);
+background-repeat: no-repeat;
+background-position-x: -40px;
+background-position-y: -60px;
 }
 .text-view {
     width: 50%;
-    margin: 40px;
     
+    
+}
+.order-food {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(33, 137, 185),rgb(12, 143, 219));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+.image-shadow {
+        background-color: chocolate;
+        border-radius: 60%;
+        width: 100%;
+        border: 5px solid rgb(31, 134, 175);
+        box-shadow: 50px 50px 100px gray;
+        margin-top: 50px;
+}
+.div-flex {
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+   
+}
+.margin {
+    margin-top: 100px;
 }
